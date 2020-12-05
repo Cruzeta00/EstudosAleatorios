@@ -1,0 +1,16 @@
+D:\EstudosAleatorios\02Metodos\bin\Debug\net5.0\02Metodos.exe
+D:\EstudosAleatorios\02Metodos\bin\Debug\net5.0\02Metodos.deps.json
+D:\EstudosAleatorios\02Metodos\bin\Debug\net5.0\02Metodos.runtimeconfig.json
+D:\EstudosAleatorios\02Metodos\bin\Debug\net5.0\02Metodos.runtimeconfig.dev.json
+D:\EstudosAleatorios\02Metodos\bin\Debug\net5.0\02Metodos.dll
+D:\EstudosAleatorios\02Metodos\bin\Debug\net5.0\ref\02Metodos.dll
+D:\EstudosAleatorios\02Metodos\bin\Debug\net5.0\02Metodos.pdb
+D:\EstudosAleatorios\02Metodos\obj\Debug\net5.0\02Metodos.csprojAssemblyReference.cache
+D:\EstudosAleatorios\02Metodos\obj\Debug\net5.0\02Metodos.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudosAleatorios\02Metodos\obj\Debug\net5.0\02Metodos.AssemblyInfoInputs.cache
+D:\EstudosAleatorios\02Metodos\obj\Debug\net5.0\02Metodos.AssemblyInfo.cs
+D:\EstudosAleatorios\02Metodos\obj\Debug\net5.0\02Metodos.csproj.CoreCompileInputs.cache
+D:\EstudosAleatorios\02Metodos\obj\Debug\net5.0\02Metodos.dll
+D:\EstudosAleatorios\02Metodos\obj\Debug\net5.0\ref\02Metodos.dll
+D:\EstudosAleatorios\02Metodos\obj\Debug\net5.0\02Metodos.pdb
+D:\EstudosAleatorios\02Metodos\obj\Debug\net5.0\02Metodos.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\EstudosAleatorios\06Encapsulamento\bin\Debug\net5.0\06Encapsulamento.exe
+D:\EstudosAleatorios\06Encapsulamento\bin\Debug\net5.0\06Encapsulamento.deps.json
+D:\EstudosAleatorios\06Encapsulamento\bin\Debug\net5.0\06Encapsulamento.runtimeconfig.json
+D:\EstudosAleatorios\06Encapsulamento\bin\Debug\net5.0\06Encapsulamento.runtimeconfig.dev.json
+D:\EstudosAleatorios\06Encapsulamento\bin\Debug\net5.0\06Encapsulamento.dll
+D:\EstudosAleatorios\06Encapsulamento\bin\Debug\net5.0\ref\06Encapsulamento.dll
+D:\EstudosAleatorios\06Encapsulamento\bin\Debug\net5.0\06Encapsulamento.pdb
+D:\EstudosAleatorios\06Encapsulamento\obj\Debug\net5.0\06Encapsulamento.csprojAssemblyReference.cache
+D:\EstudosAleatorios\06Encapsulamento\obj\Debug\net5.0\06Encapsulamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudosAleatorios\06Encapsulamento\obj\Debug\net5.0\06Encapsulamento.AssemblyInfoInputs.cache
+D:\EstudosAleatorios\06Encapsulamento\obj\Debug\net5.0\06Encapsulamento.AssemblyInfo.cs
+D:\EstudosAleatorios\06Encapsulamento\obj\Debug\net5.0\06Encapsulamento.csproj.CoreCompileInputs.cache
+D:\EstudosAleatorios\06Encapsulamento\obj\Debug\net5.0\06Encapsulamento.dll
+D:\EstudosAleatorios\06Encapsulamento\obj\Debug\net5.0\ref\06Encapsulamento.dll
+D:\EstudosAleatorios\06Encapsulamento\obj\Debug\net5.0\06Encapsulamento.pdb
+D:\EstudosAleatorios\06Encapsulamento\obj\Debug\net5.0\06Encapsulamento.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\EstudosAleatorios\09This\bin\Debug\net5.0\09This.exe
+D:\EstudosAleatorios\09This\bin\Debug\net5.0\09This.deps.json
+D:\EstudosAleatorios\09This\bin\Debug\net5.0\09This.runtimeconfig.json
+D:\EstudosAleatorios\09This\bin\Debug\net5.0\09This.runtimeconfig.dev.json
+D:\EstudosAleatorios\09This\bin\Debug\net5.0\09This.dll
+D:\EstudosAleatorios\09This\bin\Debug\net5.0\ref\09This.dll
+D:\EstudosAleatorios\09This\bin\Debug\net5.0\09This.pdb
+D:\EstudosAleatorios\09This\obj\Debug\net5.0\09This.csprojAssemblyReference.cache
+D:\EstudosAleatorios\09This\obj\Debug\net5.0\09This.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudosAleatorios\09This\obj\Debug\net5.0\09This.AssemblyInfoInputs.cache
+D:\EstudosAleatorios\09This\obj\Debug\net5.0\09This.AssemblyInfo.cs
+D:\EstudosAleatorios\09This\obj\Debug\net5.0\09This.csproj.CoreCompileInputs.cache
+D:\EstudosAleatorios\09This\obj\Debug\net5.0\09This.dll
+D:\EstudosAleatorios\09This\obj\Debug\net5.0\ref\09This.dll
+D:\EstudosAleatorios\09This\obj\Debug\net5.0\09This.pdb
+D:\EstudosAleatorios\09This\obj\Debug\net5.0\09This.genruntimeconfig.cache

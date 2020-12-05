@@ -1,0 +1,16 @@
+D:\EstudosAleatorios\04ExercicioIMC\obj\Debug\net5.0\04ExercicioIMC.csprojAssemblyReference.cache
+D:\EstudosAleatorios\04ExercicioIMC\obj\Debug\net5.0\04ExercicioIMC.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudosAleatorios\04ExercicioIMC\obj\Debug\net5.0\04ExercicioIMC.AssemblyInfoInputs.cache
+D:\EstudosAleatorios\04ExercicioIMC\obj\Debug\net5.0\04ExercicioIMC.AssemblyInfo.cs
+D:\EstudosAleatorios\04ExercicioIMC\obj\Debug\net5.0\04ExercicioIMC.csproj.CoreCompileInputs.cache
+D:\EstudosAleatorios\04ExercicioIMC\bin\Debug\net5.0\04ExercicioIMC.exe
+D:\EstudosAleatorios\04ExercicioIMC\bin\Debug\net5.0\04ExercicioIMC.deps.json
+D:\EstudosAleatorios\04ExercicioIMC\bin\Debug\net5.0\04ExercicioIMC.runtimeconfig.json
+D:\EstudosAleatorios\04ExercicioIMC\bin\Debug\net5.0\04ExercicioIMC.runtimeconfig.dev.json
+D:\EstudosAleatorios\04ExercicioIMC\bin\Debug\net5.0\04ExercicioIMC.dll
+D:\EstudosAleatorios\04ExercicioIMC\bin\Debug\net5.0\ref\04ExercicioIMC.dll
+D:\EstudosAleatorios\04ExercicioIMC\bin\Debug\net5.0\04ExercicioIMC.pdb
+D:\EstudosAleatorios\04ExercicioIMC\obj\Debug\net5.0\04ExercicioIMC.dll
+D:\EstudosAleatorios\04ExercicioIMC\obj\Debug\net5.0\ref\04ExercicioIMC.dll
+D:\EstudosAleatorios\04ExercicioIMC\obj\Debug\net5.0\04ExercicioIMC.pdb
+D:\EstudosAleatorios\04ExercicioIMC\obj\Debug\net5.0\04ExercicioIMC.genruntimeconfig.cache

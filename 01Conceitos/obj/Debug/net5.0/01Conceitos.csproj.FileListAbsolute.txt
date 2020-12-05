@@ -1,0 +1,16 @@
+D:\EstudosAleatorios\01Conceitos\bin\Debug\net5.0\01Conceitos.exe
+D:\EstudosAleatorios\01Conceitos\bin\Debug\net5.0\01Conceitos.deps.json
+D:\EstudosAleatorios\01Conceitos\bin\Debug\net5.0\01Conceitos.runtimeconfig.json
+D:\EstudosAleatorios\01Conceitos\bin\Debug\net5.0\01Conceitos.runtimeconfig.dev.json
+D:\EstudosAleatorios\01Conceitos\bin\Debug\net5.0\01Conceitos.dll
+D:\EstudosAleatorios\01Conceitos\bin\Debug\net5.0\ref\01Conceitos.dll
+D:\EstudosAleatorios\01Conceitos\bin\Debug\net5.0\01Conceitos.pdb
+D:\EstudosAleatorios\01Conceitos\obj\Debug\net5.0\01Conceitos.csprojAssemblyReference.cache
+D:\EstudosAleatorios\01Conceitos\obj\Debug\net5.0\01Conceitos.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudosAleatorios\01Conceitos\obj\Debug\net5.0\01Conceitos.AssemblyInfoInputs.cache
+D:\EstudosAleatorios\01Conceitos\obj\Debug\net5.0\01Conceitos.AssemblyInfo.cs
+D:\EstudosAleatorios\01Conceitos\obj\Debug\net5.0\01Conceitos.csproj.CoreCompileInputs.cache
+D:\EstudosAleatorios\01Conceitos\obj\Debug\net5.0\01Conceitos.dll
+D:\EstudosAleatorios\01Conceitos\obj\Debug\net5.0\ref\01Conceitos.dll
+D:\EstudosAleatorios\01Conceitos\obj\Debug\net5.0\01Conceitos.pdb
+D:\EstudosAleatorios\01Conceitos\obj\Debug\net5.0\01Conceitos.genruntimeconfig.cache

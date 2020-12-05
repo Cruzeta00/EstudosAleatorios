@@ -1,0 +1,16 @@
+D:\EstudosAleatorios\13Abstração\obj\Debug\net5.0\13Abstração.csprojAssemblyReference.cache
+D:\EstudosAleatorios\13Abstração\obj\Debug\net5.0\13Abstração.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudosAleatorios\13Abstração\obj\Debug\net5.0\13Abstração.AssemblyInfoInputs.cache
+D:\EstudosAleatorios\13Abstração\obj\Debug\net5.0\13Abstração.AssemblyInfo.cs
+D:\EstudosAleatorios\13Abstração\obj\Debug\net5.0\13Abstração.csproj.CoreCompileInputs.cache
+D:\EstudosAleatorios\13Abstração\bin\Debug\net5.0\13Abstração.exe
+D:\EstudosAleatorios\13Abstração\bin\Debug\net5.0\13Abstração.deps.json
+D:\EstudosAleatorios\13Abstração\bin\Debug\net5.0\13Abstração.runtimeconfig.json
+D:\EstudosAleatorios\13Abstração\bin\Debug\net5.0\13Abstração.runtimeconfig.dev.json
+D:\EstudosAleatorios\13Abstração\bin\Debug\net5.0\13Abstração.dll
+D:\EstudosAleatorios\13Abstração\bin\Debug\net5.0\ref\13Abstração.dll
+D:\EstudosAleatorios\13Abstração\bin\Debug\net5.0\13Abstração.pdb
+D:\EstudosAleatorios\13Abstração\obj\Debug\net5.0\13Abstração.dll
+D:\EstudosAleatorios\13Abstração\obj\Debug\net5.0\ref\13Abstração.dll
+D:\EstudosAleatorios\13Abstração\obj\Debug\net5.0\13Abstração.pdb
+D:\EstudosAleatorios\13Abstração\obj\Debug\net5.0\13Abstração.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\EstudosAleatorios\08GetSet\bin\Debug\net5.0\08GetSet.exe
+D:\EstudosAleatorios\08GetSet\bin\Debug\net5.0\08GetSet.deps.json
+D:\EstudosAleatorios\08GetSet\bin\Debug\net5.0\08GetSet.runtimeconfig.json
+D:\EstudosAleatorios\08GetSet\bin\Debug\net5.0\08GetSet.runtimeconfig.dev.json
+D:\EstudosAleatorios\08GetSet\bin\Debug\net5.0\08GetSet.dll
+D:\EstudosAleatorios\08GetSet\bin\Debug\net5.0\ref\08GetSet.dll
+D:\EstudosAleatorios\08GetSet\bin\Debug\net5.0\08GetSet.pdb
+D:\EstudosAleatorios\08GetSet\obj\Debug\net5.0\08GetSet.csprojAssemblyReference.cache
+D:\EstudosAleatorios\08GetSet\obj\Debug\net5.0\08GetSet.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudosAleatorios\08GetSet\obj\Debug\net5.0\08GetSet.AssemblyInfoInputs.cache
+D:\EstudosAleatorios\08GetSet\obj\Debug\net5.0\08GetSet.AssemblyInfo.cs
+D:\EstudosAleatorios\08GetSet\obj\Debug\net5.0\08GetSet.csproj.CoreCompileInputs.cache
+D:\EstudosAleatorios\08GetSet\obj\Debug\net5.0\08GetSet.dll
+D:\EstudosAleatorios\08GetSet\obj\Debug\net5.0\ref\08GetSet.dll
+D:\EstudosAleatorios\08GetSet\obj\Debug\net5.0\08GetSet.pdb
+D:\EstudosAleatorios\08GetSet\obj\Debug\net5.0\08GetSet.genruntimeconfig.cache

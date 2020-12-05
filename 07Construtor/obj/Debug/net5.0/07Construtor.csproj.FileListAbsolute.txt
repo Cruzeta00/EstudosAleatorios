@@ -1,0 +1,16 @@
+D:\EstudosAleatorios\07Construtor\bin\Debug\net5.0\07Construtor.exe
+D:\EstudosAleatorios\07Construtor\bin\Debug\net5.0\07Construtor.deps.json
+D:\EstudosAleatorios\07Construtor\bin\Debug\net5.0\07Construtor.runtimeconfig.json
+D:\EstudosAleatorios\07Construtor\bin\Debug\net5.0\07Construtor.runtimeconfig.dev.json
+D:\EstudosAleatorios\07Construtor\bin\Debug\net5.0\07Construtor.dll
+D:\EstudosAleatorios\07Construtor\bin\Debug\net5.0\ref\07Construtor.dll
+D:\EstudosAleatorios\07Construtor\bin\Debug\net5.0\07Construtor.pdb
+D:\EstudosAleatorios\07Construtor\obj\Debug\net5.0\07Construtor.csprojAssemblyReference.cache
+D:\EstudosAleatorios\07Construtor\obj\Debug\net5.0\07Construtor.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudosAleatorios\07Construtor\obj\Debug\net5.0\07Construtor.AssemblyInfoInputs.cache
+D:\EstudosAleatorios\07Construtor\obj\Debug\net5.0\07Construtor.AssemblyInfo.cs
+D:\EstudosAleatorios\07Construtor\obj\Debug\net5.0\07Construtor.csproj.CoreCompileInputs.cache
+D:\EstudosAleatorios\07Construtor\obj\Debug\net5.0\07Construtor.dll
+D:\EstudosAleatorios\07Construtor\obj\Debug\net5.0\ref\07Construtor.dll
+D:\EstudosAleatorios\07Construtor\obj\Debug\net5.0\07Construtor.pdb
+D:\EstudosAleatorios\07Construtor\obj\Debug\net5.0\07Construtor.genruntimeconfig.cache

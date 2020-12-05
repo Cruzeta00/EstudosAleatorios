@@ -1,0 +1,16 @@
+D:\EstudosAleatorios\03ExercicioEscolar\obj\Debug\net5.0\03ExercicioEscolar.csprojAssemblyReference.cache
+D:\EstudosAleatorios\03ExercicioEscolar\obj\Debug\net5.0\03ExercicioEscolar.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudosAleatorios\03ExercicioEscolar\obj\Debug\net5.0\03ExercicioEscolar.AssemblyInfoInputs.cache
+D:\EstudosAleatorios\03ExercicioEscolar\obj\Debug\net5.0\03ExercicioEscolar.AssemblyInfo.cs
+D:\EstudosAleatorios\03ExercicioEscolar\obj\Debug\net5.0\03ExercicioEscolar.csproj.CoreCompileInputs.cache
+D:\EstudosAleatorios\03ExercicioEscolar\bin\Debug\net5.0\03ExercicioEscolar.exe
+D:\EstudosAleatorios\03ExercicioEscolar\bin\Debug\net5.0\03ExercicioEscolar.deps.json
+D:\EstudosAleatorios\03ExercicioEscolar\bin\Debug\net5.0\03ExercicioEscolar.runtimeconfig.json
+D:\EstudosAleatorios\03ExercicioEscolar\bin\Debug\net5.0\03ExercicioEscolar.runtimeconfig.dev.json
+D:\EstudosAleatorios\03ExercicioEscolar\bin\Debug\net5.0\03ExercicioEscolar.dll
+D:\EstudosAleatorios\03ExercicioEscolar\bin\Debug\net5.0\ref\03ExercicioEscolar.dll
+D:\EstudosAleatorios\03ExercicioEscolar\bin\Debug\net5.0\03ExercicioEscolar.pdb
+D:\EstudosAleatorios\03ExercicioEscolar\obj\Debug\net5.0\03ExercicioEscolar.dll
+D:\EstudosAleatorios\03ExercicioEscolar\obj\Debug\net5.0\ref\03ExercicioEscolar.dll
+D:\EstudosAleatorios\03ExercicioEscolar\obj\Debug\net5.0\03ExercicioEscolar.pdb
+D:\EstudosAleatorios\03ExercicioEscolar\obj\Debug\net5.0\03ExercicioEscolar.genruntimeconfig.cache

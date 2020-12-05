@@ -1,0 +1,16 @@
+D:\EstudosAleatorios\12Estático\bin\Debug\net5.0\12Estático.exe
+D:\EstudosAleatorios\12Estático\bin\Debug\net5.0\12Estático.deps.json
+D:\EstudosAleatorios\12Estático\bin\Debug\net5.0\12Estático.runtimeconfig.json
+D:\EstudosAleatorios\12Estático\bin\Debug\net5.0\12Estático.runtimeconfig.dev.json
+D:\EstudosAleatorios\12Estático\bin\Debug\net5.0\12Estático.dll
+D:\EstudosAleatorios\12Estático\bin\Debug\net5.0\ref\12Estático.dll
+D:\EstudosAleatorios\12Estático\bin\Debug\net5.0\12Estático.pdb
+D:\EstudosAleatorios\12Estático\obj\Debug\net5.0\12Estático.csprojAssemblyReference.cache
+D:\EstudosAleatorios\12Estático\obj\Debug\net5.0\12Estático.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudosAleatorios\12Estático\obj\Debug\net5.0\12Estático.AssemblyInfoInputs.cache
+D:\EstudosAleatorios\12Estático\obj\Debug\net5.0\12Estático.AssemblyInfo.cs
+D:\EstudosAleatorios\12Estático\obj\Debug\net5.0\12Estático.csproj.CoreCompileInputs.cache
+D:\EstudosAleatorios\12Estático\obj\Debug\net5.0\12Estático.dll
+D:\EstudosAleatorios\12Estático\obj\Debug\net5.0\ref\12Estático.dll
+D:\EstudosAleatorios\12Estático\obj\Debug\net5.0\12Estático.pdb
+D:\EstudosAleatorios\12Estático\obj\Debug\net5.0\12Estático.genruntimeconfig.cache

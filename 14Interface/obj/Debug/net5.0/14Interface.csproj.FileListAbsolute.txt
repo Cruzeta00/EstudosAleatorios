@@ -1,0 +1,16 @@
+D:\EstudosAleatorios\14Interface\bin\Debug\net5.0\14Interface.exe
+D:\EstudosAleatorios\14Interface\bin\Debug\net5.0\14Interface.deps.json
+D:\EstudosAleatorios\14Interface\bin\Debug\net5.0\14Interface.runtimeconfig.json
+D:\EstudosAleatorios\14Interface\bin\Debug\net5.0\14Interface.runtimeconfig.dev.json
+D:\EstudosAleatorios\14Interface\bin\Debug\net5.0\14Interface.dll
+D:\EstudosAleatorios\14Interface\bin\Debug\net5.0\ref\14Interface.dll
+D:\EstudosAleatorios\14Interface\bin\Debug\net5.0\14Interface.pdb
+D:\EstudosAleatorios\14Interface\obj\Debug\net5.0\14Interface.csprojAssemblyReference.cache
+D:\EstudosAleatorios\14Interface\obj\Debug\net5.0\14Interface.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudosAleatorios\14Interface\obj\Debug\net5.0\14Interface.AssemblyInfoInputs.cache
+D:\EstudosAleatorios\14Interface\obj\Debug\net5.0\14Interface.AssemblyInfo.cs
+D:\EstudosAleatorios\14Interface\obj\Debug\net5.0\14Interface.csproj.CoreCompileInputs.cache
+D:\EstudosAleatorios\14Interface\obj\Debug\net5.0\14Interface.dll
+D:\EstudosAleatorios\14Interface\obj\Debug\net5.0\ref\14Interface.dll
+D:\EstudosAleatorios\14Interface\obj\Debug\net5.0\14Interface.pdb
+D:\EstudosAleatorios\14Interface\obj\Debug\net5.0\14Interface.genruntimeconfig.cache

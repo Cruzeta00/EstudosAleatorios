@@ -1,0 +1,16 @@
+D:\EstudosAleatorios\10Herença\bin\Debug\net5.0\10Herença.exe
+D:\EstudosAleatorios\10Herença\bin\Debug\net5.0\10Herença.deps.json
+D:\EstudosAleatorios\10Herença\bin\Debug\net5.0\10Herença.runtimeconfig.json
+D:\EstudosAleatorios\10Herença\bin\Debug\net5.0\10Herença.runtimeconfig.dev.json
+D:\EstudosAleatorios\10Herença\bin\Debug\net5.0\10Herença.dll
+D:\EstudosAleatorios\10Herença\bin\Debug\net5.0\ref\10Herença.dll
+D:\EstudosAleatorios\10Herença\bin\Debug\net5.0\10Herença.pdb
+D:\EstudosAleatorios\10Herença\obj\Debug\net5.0\10Herença.csprojAssemblyReference.cache
+D:\EstudosAleatorios\10Herença\obj\Debug\net5.0\10Herença.GeneratedMSBuildEditorConfig.editorconfig
+D:\EstudosAleatorios\10Herença\obj\Debug\net5.0\10Herença.AssemblyInfoInputs.cache
+D:\EstudosAleatorios\10Herença\obj\Debug\net5.0\10Herença.AssemblyInfo.cs
+D:\EstudosAleatorios\10Herença\obj\Debug\net5.0\10Herença.csproj.CoreCompileInputs.cache
+D:\EstudosAleatorios\10Herença\obj\Debug\net5.0\10Herença.dll
+D:\EstudosAleatorios\10Herença\obj\Debug\net5.0\ref\10Herença.dll
+D:\EstudosAleatorios\10Herença\obj\Debug\net5.0\10Herença.pdb
+D:\EstudosAleatorios\10Herença\obj\Debug\net5.0\10Herença.genruntimeconfig.cache
